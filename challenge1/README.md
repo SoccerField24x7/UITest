@@ -1,4 +1,4 @@
-# UI Styling Challenge
+# UI Styling Challenge - Part 1
 
 ![outcome](target.png)
 
